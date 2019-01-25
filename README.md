@@ -35,4 +35,41 @@ This lab assumes that you have atleast some basic level of understanding and exp
 
 Please note, that **if you have limited or no experience with R, Python or Scala then you may struggle during the CDSW labs, esp. where programming ability is required**. A better option hence would be undergo a basic training on atleast Python and attemp this lab at a later date. 
 
+## Table of Contents
+
+We would be going through the following labs:
+
+* Lab 1  : Login to Cloudera Data Science Workbench Environment
+* Lab 2  : Creating your first project & Team setup
+* Lab 3  : Launching your first workbench session
+* Lab 4  : Visualization & Sharing
+* Lab 5  : Hadoop Integration
+* Lab 6  : Pushing the boundaries
+* Lab 7  : SparklyR
+* Lab 8  : Shiny
+* Lab 9  : Scala
+* Lab 10  : Project creation using local files
+* Lab 11 : Scheduling Jobs
+* Lab 12 : Creating Experiments
+* Lab 13 : Working with Models
+* Lab 14 : Sample Project - Face Recognition
+
+
+## Appendix 
+
+Additional reading material is available below:
+
+* [Cloudera Documentation](http://www.cloudera.com/documentation.html)
+* [Cloudera Data Science Workbench Documentation](https://www.cloudera.com/documentation/data-science-workbench/latest/topics/cdsw_user_guide.html)
+* [CDSW User Guide](https://www.cloudera.com/documentation/data-science-workbench/latest/topics/cdsw_user_guide.html
+)
+* [Troubleshooting Guide](https://www.cloudera.com/documentation/data-science-workbench/latest/topics/cdsw_troubleshooting.html)
+
+Recordings
+
+* [Part 1 - Introduction](https://www.cloudera.com/content/dam/www/marketing/resources/webinars/introducing-cloudera-data-science-workbench-part1-recorded-webinar.png.landing.html)
+* [Part 2 - A Visual Dive into Machine Learning](https://www.cloudera.com/content/dam/www/marketing/resources/webinars/part-2-visual-dive-into-machine-learning-and-deep-learning.png.landing.html
+)
+* [Part 3 - Data Science Models into production from beginner to end](https://www.cloudera.com/content/dam/www/marketing/resources/webinars/models-in-production-a-look-from-beginning-to-end-part3.png.landing.html)
+
  
