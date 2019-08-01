@@ -43,7 +43,7 @@ We would be going through the following labs:
 * [Lab 2  : Hadoop Authentication](/labs/Lab02.md)
 * [Lab 3  : Creating your first CDSW Project](/labs/Lab03.md)
 * [Lab 4  : Visualization & Sharing](/labs/Lab04.md)
-* Lab 5  : 
+* [Lab 5  : Hadoop Integration](/labs/Lab05.md)
 * Lab 6  : 
 * Lab 7  : SparklyR
 * Lab 8  : Shiny
