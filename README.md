@@ -41,7 +41,7 @@ We would be going through the following labs:
 
 * [Lab 1  : CDSW Environment Access & Setup](/labs/Lab01.md)
 * [Lab 2  : Hadoop Authentication](/labs/Lab02.md)
-* Lab 3  : Launching your first CDSW Project
+* [Lab 3  : Creating your first CDSW Project](/labs/Lab03.md)
 * Lab 4  : Visualization & Sharing
 * Lab 5  : 
 * Lab 6  : 
