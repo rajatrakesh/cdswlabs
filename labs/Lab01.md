@@ -10,7 +10,7 @@ First thing you need to do is register onto Cloudera Data Science Workbench URL.
 
 Click the 'Sign Up for a New Account' option.
 
-![Cloudera Data Science Workbench Login](/Users/rajat/Documents/GitHub/cdswlabs/images/cdsw-01-a.jpg)
+![Cloudera Data Science Workbench Login](../images/cdsw-01-a.jpg)
 
 Your instructor will also provide the login credentials (username) for the workshop. 
 
@@ -18,9 +18,9 @@ Your instructor will also provide the login credentials (username) for the works
 
 Register your details in the screen. Use a simple password like ```Cloudera1```.
 
-![CDSW Registration](/Users/rajat/Documents/GitHub/cdswlabs/images/cdsw-01-b.jpg)
+![CDSW Registration](../images/cdsw-01-b.jpg)
 
-Afler clicking sign up, it will automatically login with the provided credentials and bring you to the home screen. ![CDSW Dashboard](/Users/rajat/Documents/GitHub/cdswlabs/images/cdsw-01-c.jpg)
+Afler clicking sign up, it will automatically login with the provided credentials and bring you to the home screen. ![CDSW Dashboard](../images/cdsw-01-c.jpg)
 
 **Question**: How will this help your IT group manage the explosive growth of Data Scientists?
 
