@@ -34,7 +34,11 @@ If everything went correctly you’ll see that we demonstrate:
 
 **Question:** What shell is running in that terminal? What else can you do in the terminal? Does it remind you of a terminal access to your Linux laptop?
 
+### End of Lab 5
 
+----
+
+[Back to Main](https://github.com/rajatrakesh/cdswlabs)
 
 
 
