@@ -6,7 +6,7 @@ Data Science is often about visualizing ideas, and then sharing them to persuade
 
 Let’s get started:
 
-1. Start up a new Python 2 session (1vCPU, 4GiB) in the same manner you did before.
+1. Start up a new Python 3 session (1vCPU, 4GiB) in the same manner you did before.
 2. Select 1_python.py in the file browser
 3. Run the entire file (multiple ways of doing that - try to figure out more than one way. It should be
 pretty obvious!).
@@ -46,5 +46,11 @@ pretty obvious!).
 
 So we’ve demonstrated how CDSW is like a notebook, but is perhaps more powerful, and has great sharing capability. 
 
+**Question**: How would you use this sharing capability to keep your co-workers informed about what you’re doing? 
+**Question**: How would you change your presentation to take advantage of the collapse/expand capabilities of this sharing system?
+So we’ve demonstrated how CDSW is like a notebook, but is perhaps more powerful, and has great sharing capability. Let’s go on to see about integration with Hadoop!
+
 ### End of Lab 04
 ---
+
+[Back to Main](https://github.com/rajatrakesh/cdswlabs)
