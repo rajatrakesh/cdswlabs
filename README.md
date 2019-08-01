@@ -39,12 +39,12 @@ Please note, that **if you have limited or no experience with R, Python or Scala
 
 We would be going through the following labs:
 
-* Lab 1  : Login to Cloudera Data Science Workbench Environment
-* Lab 2  : Creating your first project & Team setup
-* Lab 3  : Launching your first workbench session
+* Lab 1  : CDSW Environment Access & Setup
+* Lab 2  : Hadoop Authentication
+* Lab 3  : Launching your first CDSW Project
 * Lab 4  : Visualization & Sharing
-* Lab 5  : Hadoop Integration
-* Lab 6  : Pushing the boundaries
+* Lab 5  : 
+* Lab 6  : 
 * Lab 7  : SparklyR
 * Lab 8  : Shiny
 * Lab 9  : Scala

@@ -1,6 +1,4 @@
-## Lab 1  : Login to Cloudera Data Science Workbench Environment
-
-In this lab, you will learn how to: 
+## Lab 1  : Register to Cloudera Data Science Workbench Environment
 
 In this lab you’ll learn how to:
 
@@ -10,25 +8,34 @@ In this lab you’ll learn how to:
 
 First thing you need to do is register onto Cloudera Data Science Workbench URL. This will be provided by your instuctor at the start of the session.  ​
 
-Your instructor will also provide the login credentials for the workshop. 
+Click the 'Sign Up for a New Account' option.
 
-Login with the provided credentials, like user trainingxx and a password.
+![Cloudera Data Science Workbench Login](/Users/rajat/Documents/GitHub/cdswlabs/images/cdsw-01-a.jpg)
 
-When you are logged in, you need to specify the credentials to connect to the Cloudera cluster. Click on the ‘Settings’ button, and then the “Hadoop Authentication” link.
+Your instructor will also provide the login credentials (username) for the workshop. 
 
-![Hadoop Setup](../images/cdswadmin01.jpg)
-![Hadoop Setup](../images/cdswadmin02.jpg)
+**Please note that other usernames will not work correctly. Please make sure your username is exactly user where xx is a number given to you by your lab instructor.**
 
-If you see that the Hadoop Authentication is already setup, then nothing additional is required, if not then follow the options below to set it up.
+Register your details in the screen. Use a simple password like ```Cloudera1```.
 
-The Principal is ```cdsw@HADOOPSECURITY.LOCAL``` and password is ```Cloudera1```
+![CDSW Registration](/Users/rajat/Documents/GitHub/cdswlabs/images/cdsw-01-b.jpg)
 
-![Hadoop Setup](../images/cdswadmin03.jpg)
-![Hadoop Setup](../images/cdswadmin04.jpg)
+Afler clicking sign up, it will automatically login with the provided credentials and bring you to the home screen. ![CDSW Dashboard](/Users/rajat/Documents/GitHub/cdswlabs/images/cdsw-01-c.jpg)
 
-Once done successfully, navigate back to the project by clicking on the 'Projects' button.
+**Question**: How will this help your IT group manage the explosive growth of Data Scientists?
 
-End of Lab 1.
----
+**Question**: How do you sign out of your account? - Do it now, then sign back in. 
+
+**Question**: Does your laptop have enough RAM to run different types and loads for Data Science jobs you would like to utilize? Look at the main Dashboard. How much RAM and vCPUs are setup in our lab environment for the group to use?
+
+
+
+End of Lab 1. 
+
+----
+
+[Back to Main Labs](../README.MD)
+
+
 
 
