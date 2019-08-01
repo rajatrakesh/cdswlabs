@@ -34,7 +34,7 @@ End of Lab 1.
 
 ----
 
-[Back to Main Labs](../README.MD)
+[Back to Main Labs](https://github.com/rajatrakesh/cdswlabs)
 
 
 
