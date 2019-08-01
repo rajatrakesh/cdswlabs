@@ -2,8 +2,6 @@
 
 Only do this lab if you know your cluster is kerberized AND you know your kerberos credentials.At Cloudera we believe all clusters should be secured with Kerberos. However configuring a regular Jupyter notebook to gain access to a secure cluster is very difficult. Here we show you how easy it is with CDSW:
 
-
-
 Navigate to **Settings -> Hadoop Authentication**
 
 ![CDSW Hadoop Setup](../images/cdsw-hadoop-a.jpg)
