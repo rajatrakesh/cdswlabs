@@ -6,7 +6,7 @@ Only do this lab if you know your cluster is kerberized AND you know your kerber
 
 Navigate to **Settings -> Hadoop Authentication**
 
-![CDSW Hadoop Setup](/Users/rajat/Documents/GitHub/cdswlabs/images/cdsw-hadoop-a.jpg)
+![CDSW Hadoop Setup](../images/cdsw-hadoop-a.jpg)
 
 
 
@@ -15,7 +15,7 @@ The Principal and password that you would need to use for this lab would be as f
 	* If you are using the labs setup and provided by Cloudera, then use ```userxx@CLOUDERA``` as your Principal and ```Cloudera1``` as your password. If you are using your own environment then this would need to be the kerberos principal accounts setup in your hadoop cluster. 
 	* Click Authenticate
 
-![CDSW Hadoop Setup](/Users/rajat/Documents/GitHub/cdswlabs/images/cdsw-hadoop-b.jpg)
+![CDSW Hadoop Setup](../images/cdsw-hadoop-b.jpg)
 
 
 
