@@ -39,7 +39,7 @@ Please note, that **if you have limited or no experience with R, Python or Scala
 
 We would be going through the following labs:
 
-* Lab 1  : CDSW Environment Access & Setup
+* [Lab 1  : CDSW Environment Access & Setup](/labs/Lab01.md)
 * Lab 2  : Hadoop Authentication
 * Lab 3  : Launching your first CDSW Project
 * Lab 4  : Visualization & Sharing
