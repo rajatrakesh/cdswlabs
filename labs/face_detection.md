@@ -1,3 +1,4 @@
+```python
 from IPython.display import Image, display
 display(Image(filename="blackwidow.jpg"))
 
@@ -41,3 +42,5 @@ res = cv2.rectangle(group_photo, (lt, tp), (rt, bt), (0,0,255), 2)
 from PIL import Image, ImageDraw
 new_group_photo = Image.fromarray(group_photo)
 display(new_group_photo)
+```
+
