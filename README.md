@@ -45,8 +45,8 @@ We would be going through the following labs:
 * [Lab 4  : Visualization & Sharing](/labs/Lab04.md)
 * [Lab 5  : Hadoop Integration](/labs/Lab05.md)
 * [Lab 6: R - SparklyR, Shiny](/labs/Lab06.md)
-* Lab 7  : Scala
-* Lab 8 : Creating Experiments
+* [Lab 7  : Scala](/labs/Lab07.md)
+* [Lab 8 : Creating Experiments](/labs/Lab08.md)
 * Lab 11 : Working with Models
 * Lab 12 : Sample Project - Face Recognition
 
