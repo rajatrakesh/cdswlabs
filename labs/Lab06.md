@@ -6,9 +6,11 @@ We’ve focused on python integration, but just to show we can do similar things
 
  Start up an R session (2vCPU, 4GiB engine).
 
-1. Switch to the **R Session**.
-2. Select (and run) **4_sparklyr.R**
-3. Can you figure out some of the things it’s doing? If you know R, and if you know sparklyr, then you can get detailed; if you don’t know R then simply ‘collapse’ the output and see if you can make sense of the analysis without looking at any code … hopefully you can!
+![R Session](../images/cdsw-06-a.jpg)
+
+- Switch to the **R Session**.
+- Select (and run) **4_sparklyr.R**
+- Can you figure out some of the things it’s doing? If you know R, and if you know sparklyr, then you can get detailed; if you don’t know R then simply ‘collapse’ the output and see if you can make sense of the analysis without looking at any code … hopefully you can!
 
 
 
@@ -23,8 +25,6 @@ Run the **5_shiny.R** application
  Your users are then presented with a nice little application where they can experiment with changing some of the parameters and graphing features of R’s base graphics histogram plot!
 
 Try generating a share link and opening up the share in another browser window - amazingly enough each browser share is independent, allowing your users to share the same underlying experience, but with their individual data inputs!
-
- 
 
 **STOP all your R Sessions now - this will help free up resources for everyone**
 
