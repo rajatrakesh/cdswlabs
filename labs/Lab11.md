@@ -8,7 +8,7 @@ The instructions for this lab will be using a new library, `face_recognition`.
 
 **Step 1:**
 
-Create a new project in CDSW with a Python template, and start a Python 3 workbench with 4GB of RAM.
+Create a new project in CDSW with a Python template, and start a Python 3 workbench with 16GB of RAM.
 
 **Step 2:**
 
@@ -28,7 +28,7 @@ Try to display a photo using the Image command. Before you can use this command,
 
 `display(Image(‘<filename>’))`
 
-In the directory with .jpg files, search for the image that you would like to use. 
+In the directory with .jpg files, search for the image that you would like to use (`blackwidow`, or `ironman`)
 
 **Step 4:**  
 
@@ -40,7 +40,7 @@ First, load the library:
 
  Now you can use the following statement to find where the face is located on the photo:
 
-`my_photo = face_recognition.load_image_file(“<filename>”)`
+`my_photo = face_recognition.load_image_file(“ironman.jpg”)`
 
 `my_face_locations = face_recognition.face_locations(my_photo)`
 
